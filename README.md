@@ -1,4 +1,4 @@
-### Hi, I'm Társis Augusto 👋
+# Hi, I'm Társis Augusto 
 
 I'm almost a Mechatronic Engineer by CEFET-Mg, Campus Divinópolis. I've worked with:
 
@@ -10,22 +10,15 @@ I'm almost a Mechatronic Engineer by CEFET-Mg, Campus Divinópolis. I've worked 
 
 # Skills/Languages:
 * Python
-  * Computer Vision 
-    * Opencv
-  * AI
-    * Scikit-Learn
-    * TensorFlow
-    * Pandas
-    * Seaborn
-  * Distributed systems
-    * Socketio
-  * Control Sytems
+   * Opencv
+   * Scikit-Learn
+   * TensorFlow
+   * Pandas
+   * Socketio
 * JavaScript
-  * Backend
-    * Nodejs
-  * FrontEnd
-    * Vuejs
-    * React
+   * Nodejs
+   * Vuejs
+   * React
 * MySql
 * MongoDB
 * C/C++
@@ -35,7 +28,7 @@ I'm looking for sharp my programming skills and learn more Economic Models (AI),
 # Contact:
 * Email: tarsis1544@hotmail.com
 * Phone: (37) 99832-5232
-* Linkedin: https://www.linkedin.com/in/társis-augusto-742742124
+* Linkedin: [Társis Augusto](https://www.linkedin.com/in/társis-augusto-742742124)
 
 <!--
 **terc1997/terc1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
