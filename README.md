@@ -10,15 +10,15 @@ I'm almost a Mechatronic Engineer by CEFET-Mg, Campus Divinópolis. I've worked 
 
 Skills/Languages:
 * Python
- * Computer Vision 
-  * Opencv
- * AI
-  * Scikit-Learn
-  * TensorFlow
-  * Pandas
-  * Seaborn
+  * Computer Vision 
+    * Opencv
+  * AI
+    * Scikit-Learn
+    * TensorFlow
+    * Pandas
+    * Seaborn
   * Distributed systems
-   * Socketio
+    * Socketio
   * Control Sytems
 * JavaScript
   * Backend
@@ -28,6 +28,14 @@ Skills/Languages:
     * React
 * MySql
 * MongoDB
+* C/C++
+
+I'm looking for sharp my programming skills and learn more Economic Models (AI), Home Automation (Embedded Systems) and CFD.
+
+# Contact:
+* Email: tarsis1544@hotmail.com
+* Phone: (37) 99832-5232
+* Linkedin: @https://www.linkedin.com/in/társis-augusto-742742124
 
 <!--
 **terc1997/terc1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
