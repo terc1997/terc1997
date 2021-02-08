@@ -8,7 +8,7 @@ I'm almost a Mechatronic Engineer by CEFET-Mg, Campus Divinópolis. I've worked 
 * Computer Vision
 * Embedded systems
 
-# Skills/Languages:
+# Languages:
 * Python
    * Opencv
    * Scikit-Learn
@@ -23,7 +23,7 @@ I'm almost a Mechatronic Engineer by CEFET-Mg, Campus Divinópolis. I've worked 
 * MongoDB
 * C/C++
 
-I'm looking for sharp my programming skills and learn more Economic Models (AI), Home Automation (Embedded Systems) and CFD.
+I'm looking for sharp my programming skills and learn more Economic Models (AI), Home Automation (Embedded Systems) and CFD (Numerical Mechanical).
 
 # Contact:
 * Email: tarsis1544@hotmail.com
