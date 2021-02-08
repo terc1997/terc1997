@@ -22,6 +22,7 @@ I'm almost a Mechatronic Engineer by CEFET-Mg, Campus Divinópolis. I've worked 
 * MySql
 * MongoDB
 * C/C++
+* Matlab
 
 I'm looking for sharp my programming skills and learn more about Economic Models (AI), Home Automation (Embedded Systems) and CFD (Numerical Mechanical).
 
