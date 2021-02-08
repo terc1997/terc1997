@@ -10,15 +10,15 @@ I'm almost a Mechatronic Engineer by CEFET-Mg, Campus Divinópolis. I've worked 
 
 Skills/Languages:
 * Python
-  *Computer Vision 
-    *Opencv
-  *AI
-    *Scikit-Learn
-    *TensorFlow
-    *Pandas
-    *Seaborn
+ *Computer Vision 
+  *Opencv
+ *AI
+  *Scikit-Learn
+  *TensorFlow
+  *Pandas
+  *Seaborn
   *Distributed systems
-    *Socketio
+   *Socketio
   *Control Sytems
 * JavaScript
   *Backend
