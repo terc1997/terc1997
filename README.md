@@ -8,7 +8,7 @@ I'm almost a Mechatronic Engineer by CEFET-MG, Campus Divinópolis. I've worked 
 * Computer Vision
 * Embedded systems
 
-# Languages:
+# Programming Languages:
 * Python
    * Opencv
    * Scikit-Learn
