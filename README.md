@@ -1,6 +1,6 @@
 # Hi, I'm Társis Augusto 
 
-I'm almost a Mechatronic Engineer by CEFET-Mg, Campus Divinópolis. I've worked with:
+I'm almost a Mechatronic Engineer by CEFET-MG, Campus Divinópolis. I've worked with:
 
 * Web Development
 * Control Systems
