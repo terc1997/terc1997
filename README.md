@@ -29,7 +29,6 @@ I'm looking for sharp my programming skills and learn more about Economic Models
 
 # Contact:
 * Email: tarsis1544@hotmail.com
-* Phone: (37) 99832-5232
 * Linkedin: [Társis Augusto](https://www.linkedin.com/in/társis-augusto-742742124)
 
 <!--
