@@ -1,6 +1,6 @@
 # Hi, welcome to my Github profile.
 
-I'm a DevOps Engineer at IBM:
+My name is Társis Augusto and I'm a DevOps Engineer at IBM.
 
 Lately, I've been working with microservices and serveless architecture with IBM Cloud provider. 
 
